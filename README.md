@@ -1,2 +1,1 @@
-# Regis-Test-AR
-AR Regis
+# Regis Test Demo
